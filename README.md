@@ -5,19 +5,21 @@ TradeX is a high-performance, enterprise-grade mock stock trading platform built
 ![TradeX Banner](https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80)
 
 ## 📸 Platform Previews
-*(Please save your screenshots to `frontend/public/media/` to see them here)*
 
 ### Main Dashboard
-![TradeX Main Page](./frontend/public/media/main.png)
+![TradeX Main Page](./frontend/public/media/images/main.png)
 
 ### Secure Login
-![TradeX Login](./frontend/public/media/login.png)
+![TradeX Login](./frontend/public/media/images/login.png)
 
 ### Live Marketplace
-![TradeX Marketplace](./frontend/public/media/marketplace.png)
+![TradeX Marketplace](./frontend/public/media/images/marketplace.png)
 
 ### SaaS Pricing
-![TradeX Pricing](./frontend/public/media/pricing.png)
+![TradeX Pricing](./frontend/public/media/images/Pricing%20(2).png)
+
+### Founder Profile
+![TradeX About](./frontend/public/media/images/about.png)
 
 ## 🌟 Key Features
 
